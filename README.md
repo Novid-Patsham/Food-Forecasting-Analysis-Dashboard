@@ -8,5 +8,5 @@ My goal is to craft a comprehensive Tableau story that provides nuanced insights
 
 Sample Images:
 
-<img src="https://github.com/Novid-Patsham/covid-project-MIT/blob/main/website%20snaps/Main%20page%201.png" width="900" height="1000">
-<img src="https://github.com/Novid-Patsham/covid-project-MIT/blob/main/website%20snaps/Main%20page%201.png" width="900" height="1000">
+<img src="https://github.com/Novid-Patsham/Food-Forecasting-Analysis-Dashboard/blob/master/Food_forecasting_analysis_imgs/Slide2.JPG" width="900" height="450">
+<img src="https://github.com/Novid-Patsham/Food-Forecasting-Analysis-Dashboard/blob/master/Food_forecasting_analysis_imgs/Slide7.JPG" width="900" height="450">
