@@ -6,7 +6,8 @@ My goal is to craft a comprehensive Tableau story that provides nuanced insights
 
 ### Click [here](https://public.tableau.com/views/Food_forecasting_analysis_story/StatisticsofFoodItems?:language=en-US&:display_count=n&:origin=viz_share_link) to access the storyboard.
 
-Sample Images:
+
+#### Sample Images:
 
 <img src="https://github.com/Novid-Patsham/Food-Forecasting-Analysis-Dashboard/blob/master/Food_forecasting_analysis_imgs/Slide2.JPG" width="900" height="450">
 <img src="https://github.com/Novid-Patsham/Food-Forecasting-Analysis-Dashboard/blob/master/Food_forecasting_analysis_imgs/Slide7.JPG" width="900" height="450">
